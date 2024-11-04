@@ -11,7 +11,7 @@ This Enquiry Management System is a web application developed using Python, Djan
 - Inquiry Submission: Users can submit inquiries which are stored in the EnquiryDatabase.
 - Logout: Allows users to log out and return to the home page.
 
-#### User Section : 
+#### Admin Section : 
 
 - Admin Registration & Login: Enables administrators to register and log in.
 - Inquiry Management Dashboard: Admins can view all submitted inquiries in a tabular format.
